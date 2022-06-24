@@ -1,12 +1,14 @@
 # Emo-VC-Bot-V2.0.0
-This is Emo Vc Bot V2.0.0.... Enjoy My VC Bot
+<h2>This is Emo Vc Bot V2.0.0.... Enjoy My VC Bot
 
  
-[GitHub repo size](https://img.shields.io/github/repo-size/RishBropromax/Emo-Vc-Bot-2.0.0?label=Repo%20Size)
 
 <p align="center">
   <img src="https://telegra.ph/file/626f0a4cc3bb673ea7a9b.jpg">
 </p>
+
+
+
 
 <h2> Features 🔥 </h2>
 
